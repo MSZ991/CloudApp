@@ -1,0 +1,14 @@
+{
+  "name": "node-app",
+  "version": "1.1.1",
+  "description": "Cloud-Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
