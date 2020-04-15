@@ -1,14 +1,19 @@
 {
-  "name": "node-app",
-  "version": "1.1.1",
-  "description": "Cloud-Assignment",
-  "main": "index.js",
+  "name": "coolnodeapp",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node app.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
 }
